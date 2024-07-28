@@ -1,2 +1,2 @@
 # CoffeeRecommand
-C# project for CoffeeRecommand
+Platform : Java Console app, Android
